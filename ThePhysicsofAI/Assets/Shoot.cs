@@ -28,6 +28,6 @@ public class Shoot : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space))
             Fire();
 
-        Vector3 direction = (target.transform
+      
     }
 }
